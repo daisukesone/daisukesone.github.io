@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2021年の5個の抱負"
-date:   2021-01-01 22:41:03 +0900
+title:  "【読書メモ】BRAIN DRIVEN ( ブレインドリブン ) パフォーマンスが高まる脳の状態とは"
+date:   2021-05-14 22:41:03 +0900
 categories: books
 ---
 
