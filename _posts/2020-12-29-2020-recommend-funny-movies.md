@@ -12,8 +12,8 @@ categories: summery
 ## おいでやすこが【M-1決勝ネタ】
 
 準決勝でも一番ウケてたし、決勝でも点数トップ。誰がなんと言おうと今年一番面白かったネタ
-
-[https://www.youtube.com/watch?v=Jyu3q4tkTU0](https://www.youtube.com/watch?v=Jyu3q4tkTU0)
+{% youtube "https://www.youtube.com/watch?v=Jyu3q4tkTU0" %}
+<!-- [](https://www.youtube.com/watch?v=Jyu3q4tkTU0) -->
 
 ## 相席食堂
 
