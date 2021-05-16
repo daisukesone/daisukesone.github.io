@@ -5,14 +5,6 @@ date:   2021-05-14 22:41:03 +0900
 categories: books
 ---
 
-# Brain Driven
-
-Created: May 15, 2021 3:21 PM
-Discovered/read in: 2021
-Last edited: May 15, 2021 6:49 PM
-Subtitle: パフォーマンスが高まる脳の状態とは
-status: read
-
 ## まとめ
 
 ### モチベーション
@@ -35,7 +27,7 @@ status: read
     モチベーション・メディエータ＝行動を誘引する直接的な体内（脳内）の状態
     モチベーション＝行動を誘引する直接的な体内（脳内）の状態を認識した状態
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png](image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png)
 
 - モチベーション・メディエータとモチベーションの違い
     - やる気になっている状態と、やる気になっている自分を認知した状態の違いである。前者の、行動を誘引する脳機能と、その状態を認知する後者の脳機能は別なのである
@@ -46,7 +38,7 @@ status: read
 
 **神経科学的欲求五段階説**
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png](image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png)
 
 - 朝のセロトニン量が多いと、それに比例して夜のメラトニン量が多くなるため、朝に大量のセロトニンをつくることが、夜の良い睡眠につながる
 - モチベーションには、トップダウン型とボトムアップ型の２種類がある。
@@ -64,7 +56,7 @@ status: read
 - モチベーションを高めて何かに集中したり、パフォーマンスを最大化したりするには「ノルアドレナリンの作用」と「ドーパミンの作用」のどちらも必要になる。戦闘態勢的なノルアドレナリンの作用により、情報に意識を向けることは大切だ。そして同時にドーパミンによってワクワクと意図したものを求める心（脳）の状態にすることで、余計な情報に注意を向かわせないようにすることも大切なのである。
 - 何か行動を誘発する要因が出てきたときには、①「もっと行動したい」という快感を生むβエンドルフィン系②「もうやめたい」というストレスを感じるコルチゾール系の二つが拮抗的に働き始める。このバランスが、行動を起こしたときに長続きするか否かを決める指標の一つになっている。
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png](image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png)
 
 - ユーモアであろうと、論理的思考であろうと、文法であろうと、点数が低い人は自己の見積もりに誤差が生じやすい。つまり、実際よりも自分はできたと見積もる傾向がある。それは、学びが少なければ少ないほど、自己の至らなさを認知していないため、高く見積もる傾向があるということだ。これは人間の自己認知能力の低さとして説明されてきたが、そうではない。未熟なものに対しては自己の能力を高く見積もる仕組みがあるからこそ、新しい学びに対しても積極的にトライすることができるのだ。
 
@@ -111,7 +103,7 @@ status: read
     3. Salience network
         - 無意識的かつ勝手に作業してくれるDefault mode networkと、トップダウンで情報処理をしてくれるCentral executive networkを、ダイナミックに切り替える役割を果たすとして重要視されている。
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png](image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png)
 
 - ストレスがないと言い続けている人のほうが、うつ病になりやすい傾向があると考えられる。ストレスメディエータが体内につくられ、実際にストレス反応をしているのに、それを認知できないからだ。ストレスに気づいていない状態では、ストレスを受けていたとしてもどのように行動すればいいかわからない。
 
@@ -149,11 +141,11 @@ status: read
 
 **人間の脳と人工知能を比較する**
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png](image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png)
 
 - 人工知能はまるで、図書館で該当するテーマの本を次から次へと集めて机で作業する人のようであり、人の脳はまるで、図書館の本棚に向かって該当するテーマに関連しそうな本を手にとっては立ち読みしたり、その本が置かれていた棚の周囲の本に気がとられたりして、なかなか机に戻ってこない人のような情報処理の仕方をする。
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png](image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png)
 
 - 人工知能と脳は、模倣的な部分はあっても本質的には異質であり、それぞれの強みは異なる。神経科学によって脳の理解が進めば、さらに違いが明らかになるだろう。人類はその強みを最大化していく方向に向かい、人工知能はその強みを人類に還元するよう作用するはずだ。
 
@@ -183,12 +175,12 @@ status: read
 
 **クリエイティビティと言語・非言語の情報処理**
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png](image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png)
 
 - 一般的な教育を受けていると人間の発達が図35のようなＵ字カーブを描きやすい
     - この順序が正しいわけでも、推奨するわけでもない。ただ一般的に世の中の状態を見ると、このような流れになりやすい。だからこそ、この右上の象限、内側の非言語的な脳の情報処理機能ももっと活用できれば、我々の可能性はより開かれるだろう。
 
-![image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png](image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png)
+![image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png](https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png)
 
 **クリエイティビティは今からでも高められる**
 
