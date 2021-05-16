@@ -13,19 +13,17 @@ categories: summery
 
 準決勝でも一番ウケてたし、決勝でも点数トップ。誰がなんと言おうと今年一番面白かったネタ
 {% youtube "https://www.youtube.com/watch?v=Jyu3q4tkTU0" %}
-<!-- [](https://www.youtube.com/watch?v=Jyu3q4tkTU0) -->
+
+
 
 ## 相席食堂
 
 相席食堂は大体面白いけど、長州力と島田珠代の回は神回すぎる
 
-テストテスト
+
 {% youtube "https://www.youtube.com/watch?v=sZE9xaKXs9M" %}
 {% youtube "https://www.youtube.com/watch?v=F1gRNGglWLA" %}
 
-[https://www.youtube.com/watch?v=sZE9xaKXs9M](https://www.youtube.com/watch?v=sZE9xaKXs9M)
-
-[https://www.youtube.com/watch?v=F1gRNGglWLA](https://www.youtube.com/watch?v=F1gRNGglWLA)
 
 ## 錦鯉【M-1決勝ネタ】
 
@@ -33,13 +31,14 @@ categories: summery
 
 M-1でファイナル進出してたらやってたと思う、合コンのネタも面白い(youtubeにはなかった)
 
-[https://www.youtube.com/watch?v=D0QkrEmt42g](https://www.youtube.com/watch?v=D0QkrEmt42g)
+{% youtube "https://www.youtube.com/watch?v=D0QkrEmt42g" %}
 
 ## 芸人にスマホのメモを見せてもらったら面白すぎたしヤバすぎた[ニューヨーク Official Channel]
 
 そいつどいつが面白い
 
-[https://www.youtube.com/watch?v=bPigs9Gb55A](https://www.youtube.com/watch?v=bPigs9Gb55A)
+{% youtube "https://www.youtube.com/watch?v=bPigs9Gb55A" %}
+
 
 ## 藤崎マーケット【M-1準々決勝ネタ】
 
@@ -47,50 +46,50 @@ M-1でファイナル進出してたらやってたと思う、合コンのネ�
 
 M-1ラストイヤーの気迫が見える
 
-[https://www.youtube.com/watch?v=6f8Y3njgdRM](https://www.youtube.com/watch?v=6f8Y3njgdRM)
+{% youtube "https://www.youtube.com/watch?v=6f8Y3njgdRM" %}
+
 
 ## 真空ジェシカ【M-1準々決勝ネタ】
 
 準決勝に出れなかったコンビの中で一番面白かった
 来年決勝に出そう
 
-[https://www.youtube.com/watch?v=i5z4IVkPyFM](https://www.youtube.com/watch?v=i5z4IVkPyFM)
+{% youtube "https://www.youtube.com/watch?v=i5z4IVkPyFM" %}
 
 ## 「ばばあの罠」 - シソンヌライブ
 
 個人的シソンヌNo.1コント
 
-[https://www.youtube.com/watch?v=zJ_aBsfjzWw](https://www.youtube.com/watch?v=zJ_aBsfjzWw)
+{% youtube "https://www.youtube.com/watch?v=zJ_aBsfjzWw" %}
 
 ## 音ネタ『応援団』【怪奇！YesどんぐりRPG】歌ネタ
 
 公式チャンネルなのにサムネがターンテーブルの写真なのはよくわからん
-
-[https://www.youtube.com/watch?v=H1-i9Mmtvfs](https://www.youtube.com/watch?v=H1-i9Mmtvfs)
+{% youtube "https://www.youtube.com/watch?v=H1-i9Mmtvfs" %}
 
 ## 【コント】さらば青春の光 『楽屋挨拶』
 
 キングオブコント4年連続出場なだけあって演技力が絶妙
 
-[https://www.youtube.com/watch?v=bk-gAxgTc0Y](https://www.youtube.com/watch?v=bk-gAxgTc0Y)
+{% youtube "https://www.youtube.com/watch?v=bk-gAxgTc0Y" %}
 
 ## 【コント】おとな／ロングコートダディ
 
 爆笑するわけじゃないけど、何回も見てしまう、ロングコートダディの世界観
 
-[https://www.youtube.com/watch?v=zSZrFoJhjVI](https://www.youtube.com/watch?v=zSZrFoJhjVI)
+{% youtube "https://www.youtube.com/watch?v=zSZrFoJhjVI" %}
 
 ## 【不定期配信】生配信で珍事件！ダイアンが4人に！？
 
 機械に翻弄されるダイアンが面白すぎる
 
-[https://www.youtube.com/watch?v=tBnQzrQ0ahg](https://www.youtube.com/watch?v=tBnQzrQ0ahg)
+{% youtube "https://www.youtube.com/watch?v=tBnQzrQ0ahg" %}
 
 ## マジ歌 〜フット後藤〜『ヘブン オブ アメリカン』
 
 何年かぶりに見返したけどやっぱりおもろい
 
-[https://www.youtube.com/watch?v=sXiyY0lna9k](https://www.youtube.com/watch?v=sXiyY0lna9k)
+{% youtube "https://www.youtube.com/watch?v=sXiyY0lna9k" %}
 
 ## アンタッチャブル[全力脱力タイムズ]
 
@@ -104,28 +103,28 @@ M-1ラストイヤーの気迫が見える
 
 本当に言いそうでサイコパスなボケとそれを流すツッコミが好き
 
-[https://www.youtube.com/watch?v=2TBFEO8_68Q](https://www.youtube.com/watch?v=2TBFEO8_68Q)
+{% youtube "https://www.youtube.com/watch?v=2TBFEO8_68Q" %}
 
 ## 【ドッキリ】相方のバイクを勝手に金ピカに塗ってみた【さらば青春の光】
 
 さらばの企画はぶっとんでてyoutubeっぽい、さすが個人事務所
 
-[https://www.youtube.com/watch?v=At9NMXTvrdU](https://www.youtube.com/watch?v=At9NMXTvrdU)
+{% youtube "https://www.youtube.com/watch?v=At9NMXTvrdU" %}
 
 ## 遠隔中川家 01
 
 ただの兄弟電話だけど、急にコントし出す感じがめちゃくちゃ面白い
 
-[https://www.youtube.com/watch?v=bYi7qCXvsII](https://www.youtube.com/watch?v=bYi7qCXvsII)
+{% youtube "https://www.youtube.com/watch?v=bYi7qCXvsII" %}
 
 ## 蛙亭 / マッチングアプリ
 
 このネタを女性の岩倉さんが書いているのがすごい
 
-[https://www.youtube.com/watch?v=1vR_bov1Rz0](https://www.youtube.com/watch?v=1vR_bov1Rz0)
+{% youtube "https://www.youtube.com/watch?v=1vR_bov1Rz0" %}
 
 ## ジャルジャル / 凡人のオリジナルソング、先わかる奴
 
 キングオブコントコント2020のネタも好きだけど、これが一番好き
 
-[https://www.youtube.com/watch?v=iaF_NzEAQqE](https://www.youtube.com/watch?v=iaF_NzEAQqE)
+{% youtube "https://www.youtube.com/watch?v=iaF_NzEAQqE" %}

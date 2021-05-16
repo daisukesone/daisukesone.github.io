@@ -11,6 +11,8 @@ categories: movie
 
 # 新作
 
+<br>
+
 ## TENET
 
 時を操らせたら最強なクリストファーノーラン監督、さすが。
@@ -19,15 +21,19 @@ categories: movie
 
 実はいろんな映画の掛け合わせだったりする。
 
-[https://www.youtube.com/watch?v=AZGcmvrTX9M](https://www.youtube.com/watch?v=AZGcmvrTX9M)
+{% youtube "https://www.youtube.com/watch?v=AZGcmvrTX9M" %}
+
+<br>
 
 ## ブックスマート
 
 2020年の青春映画って感じ。
 
-過去の青春映画の金字塔を「ブレックファスト・クラブ」とするなら、現代の青春映画の金字塔は「ブックスマート」。
+過去の青春映画の金字塔を「ブレックファスト・クラブ」とするなら、現代の青春映画の金字塔は「ブックスマート」って感じ。
 
-[https://www.youtube.com/watch?v=xMsFAzRqB3U](https://www.youtube.com/watch?v=xMsFAzRqB3U)
+{% youtube "https://www.youtube.com/watch?v=xMsFAzRqB3U" %}
+
+<br>
 
 ## ハーフ・オブ・イット
 
@@ -35,9 +41,11 @@ categories: movie
 
 冒頭はプラトンの引用から始まって、ラストシーンでその主張を再構築している。
 
-過去の名作小説や映画の引用がかなり出てくる。わからないのがほとんどだったので全部見てからもう一回みたい。
+過去の名作小説や映画の引用がかなり出てくる。詳しくないのもあったので全部見てからもう一回みたい。
 
-[https://www.youtube.com/watch?v=ALAewF-Qfso](https://www.youtube.com/watch?v=ALAewF-Qfso)
+{% youtube "https://www.youtube.com/watch?v=ALAewF-Qfso" %}
+
+<br>
 
 ## 劇場版「鬼滅の刃」無限列車編
 
@@ -45,7 +53,9 @@ categories: movie
 
 社会人としてラストシーンが心掴まれた。
 
-[https://www.youtube.com/watch?v=-ewm56D9DzY](https://www.youtube.com/watch?v=-ewm56D9DzY)
+{% youtube "https://www.youtube.com/watch?v=-ewm56D9DzY" %}
+
+<br>
 
 ## パラサイト
 
@@ -53,7 +63,9 @@ categories: movie
 
 ただ、実際に半地下の人たちの感想を聞きたい。(おそらく世間とは違うはず)
 
-[https://www.youtube.com/watch?v=VG9PjxVMd08](https://www.youtube.com/watch?v=VG9PjxVMd08)
+{% youtube "https://www.youtube.com/watch?v=VG9PjxVMd08" %}
+
+<br>
 
 # 旧作
 
@@ -63,7 +75,9 @@ categories: movie
 
 All is Well !
 
-[https://www.youtube.com/watch?v=MAMv_s526vU](https://www.youtube.com/watch?v=MAMv_s526vU)
+{% youtube "https://www.youtube.com/watch?v=MAMv_s526vU" %}
+
+<br>
 
 ## はじまりのうた
 
@@ -71,7 +85,9 @@ All is Well !
 
 これを見てからmaroon5の「Lost Stars」を聞くと感慨深くなる。
 
-[https://www.youtube.com/watch?v=yOr4LeEWOLo](https://www.youtube.com/watch?v=yOr4LeEWOLo)
+{% youtube "https://www.youtube.com/watch?v=yOr4LeEWOLo" %}
+
+<br>
 
 ## インターステラー
 
@@ -79,7 +95,10 @@ All is Well !
 SF映画と思いきや人類愛の映画。
 「愛は観測可能な力である」とかいうエモ映画。
 
-[https://www.youtube.com/watch?v=isoTSzwBMKE](https://www.youtube.com/watch?v=isoTSzwBMKE)
+{% youtube "https://www.youtube.com/watch?v=isoTSzwBMKE" %}
+
+
+<br>
 
 ## 湯を沸かすほどの熱い愛
 
@@ -87,7 +106,9 @@ SF映画と思いきや人類愛の映画。
 
 もう一回見ても多分泣くので一人で見たい。
 
-[https://www.youtube.com/watch?v=CQsS-ekufiM](https://www.youtube.com/watch?v=CQsS-ekufiM)
+{% youtube "https://www.youtube.com/watch?v=CQsS-ekufiM" %}
+
+<br>
 
 ## Search
 
@@ -95,4 +116,4 @@ PCだけで完結する映画という仕組みも面白いし、ストーリー
 
 この映画だけはPCで見たい。
 
-[https://www.youtube.com/watch?v=75D75RG6csA](https://www.youtube.com/watch?v=75D75RG6csA)
+{% youtube "https://www.youtube.com/watch?v=75D75RG6csA" %}
