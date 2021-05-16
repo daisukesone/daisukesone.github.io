@@ -18,6 +18,8 @@ categories: summery
 ## 相席食堂
 
 相席食堂は大体面白いけど、長州力と島田珠代の回は神回すぎる
+{% youtube "https://www.youtube.com/watch?v=sZE9xaKXs9M" %}
+{% youtube "https://www.youtube.com/watch?v=F1gRNGglWLA" %}
 
 [https://www.youtube.com/watch?v=sZE9xaKXs9M](https://www.youtube.com/watch?v=sZE9xaKXs9M)
 
