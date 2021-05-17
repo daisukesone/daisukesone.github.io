@@ -12,7 +12,7 @@ categories: summery
 ## おいでやすこが【M-1決勝ネタ】
 
 準決勝でも一番ウケてたし、決勝でも点数トップ。誰がなんと言おうと今年一番面白かったネタ
-{% youtube "https://www.youtube.com/watch?v=Jyu3q4tkTU0" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jyu3q4tkTU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -20,9 +20,9 @@ categories: summery
 
 相席食堂は大体面白いけど、長州力と島田珠代の回は神回すぎる
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sZE9xaKXs9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% youtube "https://www.youtube.com/watch?v=sZE9xaKXs9M" %}
-{% youtube "https://www.youtube.com/watch?v=F1gRNGglWLA" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F1gRNGglWLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 錦鯉【M-1決勝ネタ】
@@ -31,13 +31,13 @@ categories: summery
 
 M-1でファイナル進出してたらやってたと思う、合コンのネタも面白い(youtubeにはなかった)
 
-{% youtube "https://www.youtube.com/watch?v=D0QkrEmt42g" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=D0QkrEmt42g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 芸人にスマホのメモを見せてもらったら面白すぎたしヤバすぎた[ニューヨーク Official Channel]
 
 そいつどいつが面白い
 
-{% youtube "https://www.youtube.com/watch?v=bPigs9Gb55A" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bPigs9Gb55A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 藤崎マーケット【M-1準々決勝ネタ】
@@ -46,7 +46,7 @@ M-1でファイナル進出してたらやってたと思う、合コンのネ�
 
 M-1ラストイヤーの気迫が見える
 
-{% youtube "https://www.youtube.com/watch?v=6f8Y3njgdRM" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6f8Y3njgdRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 真空ジェシカ【M-1準々決勝ネタ】
@@ -54,42 +54,43 @@ M-1ラストイヤーの気迫が見える
 準決勝に出れなかったコンビの中で一番面白かった
 来年決勝に出そう
 
-{% youtube "https://www.youtube.com/watch?v=i5z4IVkPyFM" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=i5z4IVkPyFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 「ばばあの罠」 - シソンヌライブ
 
 個人的シソンヌNo.1コント
 
-{% youtube "https://www.youtube.com/watch?v=zJ_aBsfjzWw" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zJ_aBsfjzWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 音ネタ『応援団』【怪奇！YesどんぐりRPG】歌ネタ
 
 公式チャンネルなのにサムネがターンテーブルの写真なのはよくわからん
-{% youtube "https://www.youtube.com/watch?v=H1-i9Mmtvfs" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H1-i9Mmtvfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 【コント】さらば青春の光 『楽屋挨拶』
 
 キングオブコント4年連続出場なだけあって演技力が絶妙
 
-{% youtube "https://www.youtube.com/watch?v=bk-gAxgTc0Y" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bk-gAxgTc0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 【コント】おとな／ロングコートダディ
 
 爆笑するわけじゃないけど、何回も見てしまう、ロングコートダディの世界観
 
-{% youtube "https://www.youtube.com/watch?v=zSZrFoJhjVI" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zSZrFoJhjVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 【不定期配信】生配信で珍事件！ダイアンが4人に！？
 
 機械に翻弄されるダイアンが面白すぎる
 
-{% youtube "https://www.youtube.com/watch?v=tBnQzrQ0ahg" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tBnQzrQ0ahg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## マジ歌 〜フット後藤〜『ヘブン オブ アメリカン』
 
 何年かぶりに見返したけどやっぱりおもろい
 
-{% youtube "https://www.youtube.com/watch?v=sXiyY0lna9k" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sXiyY0lna9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## アンタッチャブル[全力脱力タイムズ]
 
@@ -97,34 +98,36 @@ M-1ラストイヤーの気迫が見える
 
 10年ぶりかつアドリブでここまでやるのは凄すぎる
 
+
 [](https://www.bilibili.com/video/av77494433?zw)
 
 ## ラバーガール / 子供服
 
 本当に言いそうでサイコパスなボケとそれを流すツッコミが好き
 
-{% youtube "https://www.youtube.com/watch?v=2TBFEO8_68Q" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2TBFEO8_68Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 【ドッキリ】相方のバイクを勝手に金ピカに塗ってみた【さらば青春の光】
 
 さらばの企画はぶっとんでてyoutubeっぽい、さすが個人事務所
 
-{% youtube "https://www.youtube.com/watch?v=At9NMXTvrdU" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=At9NMXTvrdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 遠隔中川家 01
 
 ただの兄弟電話だけど、急にコントし出す感じがめちゃくちゃ面白い
 
-{% youtube "https://www.youtube.com/watch?v=bYi7qCXvsII" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bYi7qCXvsII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 蛙亭 / マッチングアプリ
 
 このネタを女性の岩倉さんが書いているのがすごい
 
-{% youtube "https://www.youtube.com/watch?v=1vR_bov1Rz0" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1vR_bov1Rz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ジャルジャル / 凡人のオリジナルソング、先わかる奴
 
 キングオブコントコント2020のネタも好きだけど、これが一番好き
 
-{% youtube "https://www.youtube.com/watch?v=iaF_NzEAQqE" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iaF_NzEAQqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
