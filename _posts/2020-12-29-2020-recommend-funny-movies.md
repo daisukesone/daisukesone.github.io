@@ -99,7 +99,7 @@ M-1ラストイヤーの気迫が見える
 10年ぶりかつアドリブでここまでやるのは凄すぎる
 
 
-[](https://www.bilibili.com/video/av77494433?zw)
+[動画](https://www.bilibili.com/video/av77494433?zw)
 
 ## ラバーガール / 子供服
 
@@ -117,9 +117,7 @@ M-1ラストイヤーの気迫が見える
 ## 遠隔中川家 01
 
 ただの兄弟電話だけど、急にコントし出す感じがめちゃくちゃ面白い
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYi7qCXvsII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## 蛙亭 / マッチングアプリ
 
 このネタを女性の岩倉さんが書いているのがすごい
