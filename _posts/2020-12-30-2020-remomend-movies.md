@@ -21,7 +21,8 @@ categories: movie
 
 実はいろんな映画の掛け合わせだったりする。
 
-{% youtube "https://www.youtube.com/watch?v=AZGcmvrTX9M" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZGcmvrTX9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -31,7 +32,7 @@ categories: movie
 
 過去の青春映画の金字塔を「ブレックファスト・クラブ」とするなら、現代の青春映画の金字塔は「ブックスマート」って感じ。
 
-{% youtube "https://www.youtube.com/watch?v=xMsFAzRqB3U" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xMsFAzRqB3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -43,7 +44,7 @@ categories: movie
 
 過去の名作小説や映画の引用がかなり出てくる。詳しくないのもあったので全部見てからもう一回みたい。
 
-{% youtube "https://www.youtube.com/watch?v=ALAewF-Qfso" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ALAewF-Qfso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -53,7 +54,7 @@ categories: movie
 
 社会人としてラストシーンが心掴まれた。
 
-{% youtube "https://www.youtube.com/watch?v=-ewm56D9DzY" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-ewm56D9DzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -63,7 +64,7 @@ categories: movie
 
 ただ、実際に半地下の人たちの感想を聞きたい。(おそらく世間とは違うはず)
 
-{% youtube "https://www.youtube.com/watch?v=VG9PjxVMd08" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VG9PjxVMd08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -75,7 +76,7 @@ categories: movie
 
 All is Well !
 
-{% youtube "https://www.youtube.com/watch?v=MAMv_s526vU" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MAMv_s526vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -85,7 +86,7 @@ All is Well !
 
 これを見てからmaroon5の「Lost Stars」を聞くと感慨深くなる。
 
-{% youtube "https://www.youtube.com/watch?v=yOr4LeEWOLo" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yOr4LeEWOLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -95,7 +96,7 @@ All is Well !
 SF映画と思いきや人類愛の映画。
 「愛は観測可能な力である」とかいうエモ映画。
 
-{% youtube "https://www.youtube.com/watch?v=isoTSzwBMKE" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=isoTSzwBMKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
@@ -106,7 +107,7 @@ SF映画と思いきや人類愛の映画。
 
 もう一回見ても多分泣くので一人で見たい。
 
-{% youtube "https://www.youtube.com/watch?v=CQsS-ekufiM" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CQsS-ekufiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -116,4 +117,4 @@ PCだけで完結する映画という仕組みも面白いし、ストーリー
 
 この映画だけはPCで見たい。
 
-{% youtube "https://www.youtube.com/watch?v=75D75RG6csA" %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=75D75RG6csA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
