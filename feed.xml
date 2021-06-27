@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-27T00:06:53+00:00</updated><id>/feed.xml</id><title type="html">daisuke sone</title><subtitle>エンジニアリング、行動経済学、認知科学、サービスデザイン、プロダクトマネジメント、 読んだ本、見た映画、日常の気づきなど</subtitle><entry><title type="html">【読書メモ】BRAIN DRIVEN ( ブレインドリブン ) パフォーマンスが高まる脳の状態とは</title><link href="/books/2021/05/14/brain-driven.html" rel="alternate" type="text/html" title="【読書メモ】BRAIN DRIVEN ( ブレインドリブン ) パフォーマンスが高まる脳の状態とは" /><published>2021-05-14T13:41:03+00:00</published><updated>2021-05-14T13:41:03+00:00</updated><id>/books/2021/05/14/brain-driven</id><content type="html" xml:base="/books/2021/05/14/brain-driven.html">&lt;h2 id=&quot;まとめ&quot;&gt;まとめ&lt;/h2&gt;
+
+&lt;h3 id=&quot;モチベーション&quot;&gt;モチベーション&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;そもそも、モチベーションとは何か？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;メタ認知は、「自分自身を、客観視、俯瞰視」した認知の状態である。自分自身のことを主観的に捉えるだけでなく、客観的に捉えてみよう、一面的に捉えるだけでなく俯瞰的に捉えようというのがメタ認知の基本的な役割である。&lt;/li&gt;
+  &lt;li&gt;自分に意識的に注意を向けない限り、自分の脳に自分の情報が書き込まれないのである。さらに自分のことはよくわかっているという錯覚から、ほとんどの人は意識的に自分を見ようとしない。&lt;/li&gt;
+  &lt;li&gt;メタ認知の本質的な意義は、自分のことを客観的に、俯瞰的に見ることで、自分自身の脳に自分自身についての情報を書き込み、それによって「自分をもつ」ことなのである。自分の感じ方、考え方、振る舞い方を知れば、自分で感じ、考え、行動する、自律的な脳が育まれるのである。&lt;/li&gt;
+  &lt;li&gt;「自分が何をどう感じて、どのように打てているかを説明できたとき、超一流の仲間入りができた」(イチロー)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;モチベーション世界の構造的理解&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;モチベーションの流れ
+    &lt;ul&gt;
+      &lt;li&gt;①原因となるお金的な「刺激」があり (モチベーター)&lt;/li&gt;
+      &lt;li&gt;②それを受けて関連する脳や体内の環境が「変化」を催すことによって (モチベーション・メディエーター)&lt;/li&gt;
+      &lt;li&gt;③「行動」に移る (モチベーション)&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;モチベータ＝行動を誘引する始点となる間接的な原因
+  モチベーション・メディエータ＝行動を誘引する直接的な体内（脳内）の状態
+  モチベーション＝行動を誘引する直接的な体内（脳内）の状態を認識した状態&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_15.32.51.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;モチベーション・メディエータとモチベーションの違い
+    &lt;ul&gt;
+      &lt;li&gt;やる気になっている状態と、やる気になっている自分を認知した状態の違いである。前者の、行動を誘引する脳機能と、その状態を認知する後者の脳機能は別なのである&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自分はモチベーションがないという人がいるが、モチベーションがまったくない状態、すなわちモチベーション・メディエータが発露していない人はほとんどいない。目を向けていない、認知していないだけと言えるだろう&lt;/li&gt;
+  &lt;li&gt;他人と自分のモチベーションのあり方は、ＤＮＡレベルで異なり、体験による記憶が異なり、脳の配線が異なる限り、大きく異なる可能性が高い&lt;/li&gt;
+  &lt;li&gt;人間の行動の解は、ある程度脳の仕組みの中でコントロールされていることがわかってきた。その仕組みとは、ここ５年から10年の神経科学でもっとも注目されているトピックのうちの一つである「報酬回路」と呼ばれる脳のシステムである。しかし、単に報酬回路だけを見ても、モチベーションの全体像は捉えられないことがわかってきた。&lt;/li&gt;
+  &lt;li&gt;脳の機能を見ていくと、古くからある脳機能、すなわち脳の下部の構造がモチベーションとして優先されることが多い。だからこそ、たとえば睡眠不足の状況になると、生存のための睡眠が優先され、高次機能を発動させることが非常に難しい状態になる。呼吸や体温が乱れていると、学習や仕事のモチベーションどころではないのである。したがって、脳幹や間脳などでつかさどる機能のコンディションを整えておくことが、学習系や高次脳処理機能系のモチベーションを引き出すためには重要となる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;神経科学的欲求五段階説&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_15.40.40.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;朝のセロトニン量が多いと、それに比例して夜のメラトニン量が多くなるため、朝に大量のセロトニンをつくることが、夜の良い睡眠につながる&lt;/li&gt;
+  &lt;li&gt;モチベーションには、トップダウン型とボトムアップ型の２種類がある。
+    &lt;ul&gt;
+      &lt;li&gt;五段階説の下部の機能ほどボトムアップ的（無意識に近い状態）で誘発され、上部の機能ほどトップダウン的（意識的）に誘引される&lt;/li&gt;
+      &lt;li&gt;たとえば「お腹が空いた」「眠い」などはボトムアップ型のモチベーションであり、無意識に誘引される。一方「あれを考えてみよう」「この勉強をしよう」などはトップダウン型のモチベーションで、意識的な誘引が必要となることが多い。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ボトムアップのモチベーションを抑制し、トップダウンのモチベーションを高めようという考え方が主流だった。それはいまでも有用だが、他の方法も台頭してきた。それは、ボトムアップのモチベーションをトップダウンのモチベーションの栄養に転用する方法だ。
+    &lt;ul&gt;
+      &lt;li&gt;空腹によるドーパミン誘導を「勉強」に「意識的に」振り向けることができたとしたら、学習に対するパフォーマンスは高まる。これは、サブリミナル的な実験をしながらドーパミン誘導をすると、実際に記憶定着が高まる結果が得られる研究の応用である。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;分子の世界から捉えるモチベーション&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ドーパミンとノルアドレナリンの違い
+    &lt;ul&gt;
+      &lt;li&gt;どちらも行動を誘引する役割を果たしている。&lt;/li&gt;
+      &lt;li&gt;ドーパミン: 基本的に「ＳＥＥＫ（探し求める）」するための情動と説明されることが多い。つまり、シグナルや情報に向かわせるときに放出される。ドーパミンが発露すると「βエンドルフィン」が作られやすくなる。このβエンドルフィンは、脳内アヘンと呼ばれる快感物質である。&lt;/li&gt;
+      &lt;li&gt;ノルアドレナリン: 「FightorFlight（闘争または逃走）」に役割を果たす交感神経と連動して放出されることが多い。戦うときなどに出る「コルチゾール」と呼ばれるストレスホルモンを導きやすい。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;モチベーションを高めて何かに集中したり、パフォーマンスを最大化したりするには「ノルアドレナリンの作用」と「ドーパミンの作用」のどちらも必要になる。戦闘態勢的なノルアドレナリンの作用により、情報に意識を向けることは大切だ。そして同時にドーパミンによってワクワクと意図したものを求める心（脳）の状態にすることで、余計な情報に注意を向かわせないようにすることも大切なのである。&lt;/li&gt;
+  &lt;li&gt;何か行動を誘発する要因が出てきたときには、①「もっと行動したい」という快感を生むβエンドルフィン系②「もうやめたい」というストレスを感じるコルチゾール系の二つが拮抗的に働き始める。このバランスが、行動を起こしたときに長続きするか否かを決める指標の一つになっている。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_15.53.43.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ユーモアであろうと、論理的思考であろうと、文法であろうと、点数が低い人は自己の見積もりに誤差が生じやすい。つまり、実際よりも自分はできたと見積もる傾向がある。それは、学びが少なければ少ないほど、自己の至らなさを認知していないため、高く見積もる傾向があるということだ。これは人間の自己認知能力の低さとして説明されてきたが、そうではない。未熟なものに対しては自己の能力を高く見積もる仕組みがあるからこそ、新しい学びに対しても積極的にトライすることができるのだ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;モチベーションと痛みの関係&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;苦痛は辛く、投げ出したくなるものだ。それでも、ときには自分で自分を追い込み、その苦痛、辛さを受け入れてみる。すると、苦痛を体感したあとに通常以上の大きな差分が生まれ、大きな喜びを得られる可能性を高める。どうしても挑戦したいこと、やり遂げたいことに関しては、苦痛を感じたときはむしろラッキーな状態と俯瞰視し、耐えることを楽しんでみる。そうすれば、高いパフォーマンスを出しやすくなるかもしれない。&lt;/li&gt;
+  &lt;li&gt;苦痛に耐えること、苦痛をたしなむことは、成長を加速させる。自分で決めた苦痛、自分で決めた苦しみは、私たちを強くする。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;お金とモチベーションの特殊な関係&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;大人になればなるほどこの価値記憶を伴う快の体験をお金で買える構造に直面する。むしろ、価値記憶化された快の体験を、お金以外のもので代替することはなかなかできない。その意味で、脳にとってお金は非常に特異な刺激物となる。&lt;/li&gt;
+  &lt;li&gt;重要なのは、予測差分、期待値差分である。これがドーパミン誘導の基礎である。予想外、または経験したことがない金額が、お金によるドーパミントリガーとなる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;モチベーションをマネジメントする&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;仕事の場合、自分がやってきた過去の経験を参照し「なぜこの仕事をするのか？」「何のために必要なのか？」を考えることが第一歩になる。&lt;/li&gt;
+  &lt;li&gt;モチベーションを高めるうえでは「自分の脳で決める」のが重要だ。&lt;/li&gt;
+  &lt;li&gt;違和感と葛藤はモチベーションの大きな糧となる
+    &lt;ul&gt;
+      &lt;li&gt;葛藤状態を経た脳による意思決定能力が培われていないと、自分では何も行動できない人間になり、モチベーションを高めることもできない状態に陥ってしまう。&lt;/li&gt;
+      &lt;li&gt;もちろん、葛藤は苦しい。私も好きではない。しかし葛藤状態に直面したら、「これを乗り越えれば自分は成長する」と捉えみてほしい。それだけで心持ち、すなわち脳はリラックス状態となり、よりモチベーションが高まりやすい状態になるはずだ。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ストレス&quot;&gt;ストレス&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ストレスを分解して考える&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ストレスを深く捉えるためには、「間接的な原因」と「直接的な原因」に分けて考える必要がある。&lt;/li&gt;
+  &lt;li&gt;間接的なストレスの原因となる刺激のことを「ストレッサー」と呼ぶ。
+    &lt;ul&gt;
+      &lt;li&gt;1つは外部からの刺激がストレスの間接的な原因となる「外刺激由来のストレッサー」&lt;/li&gt;
+      &lt;li&gt;もう一つは「内刺激由来のストレッサー」。これはたとえば我々が嫌な体験をしてストレス反応を示したのち、そのことを思い返すことで再度ストレスを感じる場合だ。言わば、自分自身で思い返すことなどがストレスの原因になっている状態を指す。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ストレスの意味や役割
+    &lt;ol&gt;
+      &lt;li&gt;受け取った情報がどのような種類のものであるかを伝える役割&lt;/li&gt;
+      &lt;li&gt;記憶力を高める役割
+        &lt;ul&gt;
+          &lt;li&gt;入ってきた情報に対してストレス反応することは、学習し、脳の中に記憶化させる役割もある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;「直感力」への影響&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;脳の構造自体は、昔といまでたいして変わらない。その意味で、ストレスは生物が生存確率を高めるために発達した機能と言えるだろう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ストレスを認識する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;脳には3つのモードがある
+    &lt;ol&gt;
+      &lt;li&gt;Default mode network
+        &lt;ul&gt;
+          &lt;li&gt;白昼夢のようなぼーっとしている状態&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Central executive network
+        &lt;ul&gt;
+          &lt;li&gt;何か思考をしたり、意識的に注意を向けたりするときに働く&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Salience network
+        &lt;ul&gt;
+          &lt;li&gt;無意識的かつ勝手に作業してくれるDefault mode networkと、トップダウンで情報処理をしてくれるCentral executive networkを、ダイナミックに切り替える役割を果たすとして重要視されている。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_17.32.48.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ストレスがないと言い続けている人のほうが、うつ病になりやすい傾向があると考えられる。ストレスメディエータが体内につくられ、実際にストレス反応をしているのに、それを認知できないからだ。ストレスに気づいていない状態では、ストレスを受けていたとしてもどのように行動すればいいかわからない。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;成功の前にあるストレスをパターン学習する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ストレスを整理、パターン化することで、ストレス反応を学びに変えることができる。だが、ストレス経験をまとめるのは楽しい作業ではない。やりたくないのが普通の反応だと思う。そこを乗り越えるためのちょっとしたコツがある。それは「成功体験のプロセスに潜む失敗やストレス体験」をパターン学習することである&lt;/li&gt;
+  &lt;li&gt;そもそも人間に、ものごとを最初から成功させる能力は備わっていない。とはいえ「最初からうまくいくはずがない」と理解していても、失敗から生じるストレス反応だけをパターン学習するのは非常に苦しい。だからこそ、最終的な成功体験に関連づけ、失敗や、ストレスを感じた体験をパターン学習させると、脳の中で「ネガティブな失敗やストレスにも意味があった」と捉えられるのだ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;適切なストレス&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自分がやりたいこと、やろうとしている状態を前提として、やらなければならないタスクから受けているストレス反応であるならば、私たちの注意力や記憶定着効率は高まりやすい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ストレスとうまく付き合うためのヒント&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自分が悶々としていることを紙に書き出すといいと言われた。それは、その通りである。曖昧で無意識的に降り注いでいたストレッサーが認識されれば、意識的に注意を選択でき、望むストレッサーを選択する確率を高めてくれるからだ&lt;/li&gt;
+  &lt;li&gt;たとえ嫌々でも、目の前のタスクに取り組むのであれば、取り組む意義や意味を自分で見出すことが必要だ。&lt;/li&gt;
+  &lt;li&gt;科学的であれば必ず真であるとする根拠もまったくない。人に関することはとくにそうだ。一人ひとりの人間はまったく違う環境で生まれ、育ってきた。ＤＮＡも一人として同じ人はいない。&lt;/li&gt;
+  &lt;li&gt;日常的な超俯瞰視としては「今日１日、命があったこと」を毎日心から１分間感謝することなどが考えられる。このような試みは、科学的な視点で説明ができる何千年も前から、宗教で取り入れられている。その日１日を無事に過ごせたことに感謝できる人は、ちょっとしたストレッサーにいちいち過剰に反応しないだろう。そのような脳は、一朝一夕には手に入らない。毎日心を込めてやり続ける人だけに脳のネットワークは宿る。科学的に見ても、脳の強化学習とプラシーボ効果の両面から説明できる。&lt;/li&gt;
+  &lt;li&gt;新しい学びのときにモヤモヤするのは当然だ。モヤモヤする感覚があるのは、学習している証拠である。脳内であまり使われていない神経細胞は、その物理的構造が未熟でエネルギー効率が悪い。活用され続けることでミエリン鞘と呼ばれる構造体が太くなり、電気信号の伝導効率を高める&lt;/li&gt;
+  &lt;li&gt;心から愛する存在がいると、オキシトシンの量は増える。愛する存在と関わると落ち着く感覚があると思うが、その背景にはオキシトシンがある。愛する人を再認識する、新たにつくることも、ストレスコントロールにとっては効果的だ。&lt;/li&gt;
+  &lt;li&gt;世の中には「集中力は15分しかもたない」と言う科学者もいる。しかし、それは15分程度しか集中力がもたない対象に対する時間で、あらゆる対象に当てはまるわけではない。人間は、基本的には何時間も集中できると考えていい。&lt;/li&gt;
+  &lt;li&gt;セロトニンを誘導する
+    &lt;ul&gt;
+      &lt;li&gt;単調リズム性運動に反応して合成される。 (ex. 貧乏ゆすり , 好きな音楽を聴きながらリズムに乗る)
+        &lt;ul&gt;
+          &lt;li&gt;単調で、それだけに集中でき、自分が心地よく感じるリズム性の動作を見つけると、セロトニンによって生活にゆとりの時間が広がるかもしれない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;太陽光にも反応する&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;交感神経をＯＮの神経系とするならば、副交感神経はＯＦＦの神経系だ。
+    &lt;ul&gt;
+      &lt;li&gt;交感神経は我々にエネルギーを与え、パフォーマンスを高める。そのため「FightorFlight」の神経系と言われる。日本語にすると「闘争または逃走」である。&lt;/li&gt;
+      &lt;li&gt;一方の副交感神経は、我々にエネルギーを蓄えさせ、パフォーマンスを出すための準備をしてくれる。そのため「RestorDigest」の神経系と言われる。日本語にすると「休息または消化」である&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;クリエイティビティ&quot;&gt;クリエイティビティ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;クリエイティビティを捉えるための前提と複雑性&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;同じピアニストが同じピアノを弾いても、決められた曲を決められた通りに弾いているときと、何らかのクリエイティブな操作をしているときでは、使われている脳の部位は違うという&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;人間の脳と人工知能を比較する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_18.17.02.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;人工知能はまるで、図書館で該当するテーマの本を次から次へと集めて机で作業する人のようであり、人の脳はまるで、図書館の本棚に向かって該当するテーマに関連しそうな本を手にとっては立ち読みしたり、その本が置かれていた棚の周囲の本に気がとられたりして、なかなか机に戻ってこない人のような情報処理の仕方をする。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_18.22.31.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;人工知能と脳は、模倣的な部分はあっても本質的には異質であり、それぞれの強みは異なる。神経科学によって脳の理解が進めば、さらに違いが明らかになるだろう。人類はその強みを最大化していく方向に向かい、人工知能はその強みを人類に還元するよう作用するはずだ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;神経科学の知識でクリエイティビティは高まる&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;どうすれば能力を発揮できるかわからないことを、人は積極的にやることはできない&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;神経科学的にクリエイティビティを捉える&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;学習プロセスに要する時間は、事象によって異なる。ある絵画を見て「こんなの、どこがいいの？」と感じていた人が、いつの間にか「これは素晴らしい絵だ」と感じるようになるための時間は、一瞬ではない。脳の中では、時間軸に伴って価値を判断する記憶が蓄積され、ようやく価値を感じられるようになる。この観点は、神経科学では重要だ&lt;/li&gt;
+  &lt;li&gt;創造プロセスと評価プロセスは異なる脳を活用する。&lt;/li&gt;
+  &lt;li&gt;主体者がせっかく創造プロセスの脳を活用したとしても、そのプロセスにおいてネガティブなフィードバックばかり受けていたら、創造モチベーションは高まらず、創造プロセスの脳を活用しなくなってしまう。&lt;/li&gt;
+  &lt;li&gt;クリエイティビティを育むための「マジック」などない。いかにクリエイティビティ脳を活用し続けるか、脳の創造プロセスを活用し続けるか、それらを継続し続けるかがクリエイティビティを高める。重要なのは、他人に低く評価されたからといって、やめないことだ&lt;/li&gt;
+  &lt;li&gt;クリエイティブ脳を育むポイントの一つとして考えられるのは、ネガティブな他者評価を受け流す能力だ。他者の評価にかかわらず、いかに自分にとって新しく価値あるものを考え続け、生み出し続けるのかが重要なのである。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;クリエイティビティを発揮するための大前提&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;クリエイティビティは、後天的に学んだことから育まれる
+    &lt;ul&gt;
+      &lt;li&gt;クリエイティブ脳は主に高次機能系と学習系と呼ばれる大脳新皮質と大脳辺縁系の機能を使う。両者はともに後天的に変化し、神経可塑性の一例とも言える。&lt;/li&gt;
+      &lt;li&gt;神経細胞同士は同時に活性化されることで結ばれる。脳の配線（シナプス）を脳の中でどのように形成していくかは、体験や学びのあり方によって変わってくるということだ。どんなに同じような環境にいようが、その環境に対してどのように注意を向けて脳に情報をプロセスさせていくかによって、クリエイティビティを発揮する種として記憶を保持できるかが変わってくる。意識的に同時発火の原則を活用することが、クリエイティビティを育むためには重要になる。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;マクロの視点からクリエイティビティを捉える&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;瞑想やマインドフルネス
+    &lt;ul&gt;
+      &lt;li&gt;呼吸に集中することに慣れていない人は、ほんの５分程度の間に、いつの間にか呼吸への集中を忘れて「このあと何を食べようかな」「あの人と何をしようかな」などと無意識のうちに考えてしまうものだ。風呂に入って体を洗っているときに余計なことを考え始め、ふと気づくとどの部位を洗ったか覚えていないという経験は誰にでもあるのではないか。これらがマインドワンダリング状態で、デフォルトモード・ネットワークが活性化している状態である。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;思考にどっぷりと浸ったあとのぼーっとした状態は、クリエイティビティにとっては非常に重要な時間となる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;クリエイティビティと言語・非言語の情報処理&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_18.41.51.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一般的な教育を受けていると人間の発達が図35のようなＵ字カーブを描きやすい
+    &lt;ul&gt;
+      &lt;li&gt;この順序が正しいわけでも、推奨するわけでもない。ただ一般的に世の中の状態を見ると、このような流れになりやすい。だからこそ、この右上の象限、内側の非言語的な脳の情報処理機能ももっと活用できれば、我々の可能性はより開かれるだろう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://daisukesone.github.io/image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png&quot; alt=&quot;image/brain-driven/Screen_Shot_2021-05-15_at_18.45.29.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;クリエイティビティは今からでも高められる&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;芸術に対する我々の反応は、芸術家が作品を創りだした創造的過程─認知や情動、共感を伴う過程─を自分の脳で再現したいという、やむにやまれぬ衝動から生じる。（中略）芸術家と鑑賞者の双方におけるこのような創造的な衝動はおそらく、芸術は物質的には生存に必須ではないにもかかわらず、あらゆる時代のあらゆる場所において実質的にすべての人類集団が絵画を創ってきた理由を説明してくれるだろう。芸術は、本来的に快楽に満ちたものであり、芸術家と鑑賞者が交流し、人の脳を特徴づける創造的な過程を共有するための有益な努力である。（著：エリック・Ｒ・カンデル訳：須田年生、須田ゆり『芸術・無意識・脳』九夏社より引用）&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="books" /><summary type="html">まとめ</summary></entry><entry><title type="html">[読書メモ]行動を変えるデザイン</title><link href="/books/2021/04/29/designing-for-behavior-change.html" rel="alternate" type="text/html" title="[読書メモ]行動を変えるデザイン" /><published>2021-04-29T13:41:03+00:00</published><updated>2021-04-29T13:41:03+00:00</updated><id>/books/2021/04/29/designing-for-behavior-change</id><content type="html" xml:base="/books/2021/04/29/designing-for-behavior-change.html">&lt;h1 id=&quot;行動を変えるデザイン&quot;&gt;行動を変えるデザイン&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/32898418/118395163-d080b900-b683-11eb-876a-ea4c861222d6.png&quot; alt=&quot;行動変えるデザイン&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="books" /><summary type="html">行動を変えるデザイン</summary></entry><entry><title type="html">ソシオメディアのヒューマンインターフェースガイドラインを読む</title><link href="/design/2021/01/11/human-guideline.html" rel="alternate" type="text/html" title="ソシオメディアのヒューマンインターフェースガイドラインを読む" /><published>2021-01-11T14:49:03+00:00</published><updated>2021-01-11T14:49:03+00:00</updated><id>/design/2021/01/11/human-guideline</id><content type="html" xml:base="/design/2021/01/11/human-guideline.html">&lt;h1 id=&quot;ソシオメディアのヒューマンインターフェースガイドラインを読む&quot;&gt;ソシオメディアのヒューマンインターフェースガイドラインを読む&lt;/h1&gt;
+
+&lt;p&gt;全部まとめようとしたけど10個で断念&lt;/p&gt;
+
+&lt;h3 id=&quot;1-シンプルにする&quot;&gt;1. シンプルにする&lt;/h3&gt;
+
+&lt;p&gt;機能や情報を厳選し、できるだけ要素を少なくする。&lt;/p&gt;
+
+&lt;p&gt;ex. &lt;a href=&quot;https://www.google.com/&quot;&gt;google&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-簡単にする&quot;&gt;2. 簡単にする&lt;/h3&gt;
+
+&lt;p&gt;利用方法を効率化し、目的達成までの手順と労力をできるだけ減らす。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-メンタルモデル&quot;&gt;3. メンタルモデル&lt;/h3&gt;
+
+&lt;p&gt;ユーザーが想像する利用モデルに合った構成と動きにする。学習可能なイディオム（慣用表現）によってユーザーに利用モデルを与える。メタファを用いて概念や機能性を伝える。&lt;/p&gt;
+
+&lt;p&gt;ex. ibooksの本棚デザイン&lt;/p&gt;
+
+&lt;h3 id=&quot;4-シグニファイア&quot;&gt;4. シグニファイア&lt;/h3&gt;
+
+&lt;p&gt;操作対象となる要素が見えていて、その意味が一目でわかるようにしておく。ユーザーがすでに知っている表現や自明な形状などを用いて使い方を示唆する。例えば、押せるものは押せそうに、押せないものは押せなさそうに見せる。&lt;/p&gt;
+
+&lt;p&gt;ex. ボタンデザイン&lt;/p&gt;
+
+&lt;h3 id=&quot;5-マッピング&quot;&gt;5. マッピング&lt;/h3&gt;
+
+&lt;p&gt;操作する所と結果が反映される所の対応を把握できるようにする。そのために、位置関係、形、色、記号などによって手掛かりを与える。&lt;/p&gt;
+
+&lt;h3 id=&quot;6一貫性&quot;&gt;6.一貫性&lt;/h3&gt;
+
+&lt;p&gt;配色、形状、配置、振る舞い、などに一貫したルールを適用する。同じ性質のものは同じ表現、違う性質のものは違う表現にする。一貫性はそのデザインにおける論理の体現であり、ユーザーがシステムの使い方を推測したり学習したりするための基本的な手がかりとなる&lt;/p&gt;
+
+&lt;h3 id=&quot;7-ユーザーの主導権&quot;&gt;7. ユーザーの主導権&lt;/h3&gt;
+
+&lt;p&gt;システムがユーザーをコントロールするのではなく、ユーザーがシステムをコントロールできるようにする。システムの都合で強要する操作を減らす。システムの都合で一方的にユーザーの行動を制限しない。ユーザーが常に自分の意思にもとづいて選択し、作業を進められるようにする&lt;/p&gt;
+
+&lt;h3 id=&quot;8-直接捜査&quot;&gt;8. 直接捜査&lt;/h3&gt;
+
+&lt;p&gt;画面上のオブジェクトに直接触れて操作しているような感覚を与える。身体的な動作に追従してリアルタイムに表示を更新する（フィードバック）。逆の操作をすることで前の状態に戻せるようにする（可逆性）。&lt;/p&gt;
+
+&lt;h3 id=&quot;9-モードレス&quot;&gt;9. モードレス&lt;/h3&gt;
+
+&lt;p&gt;できるだけモードをなくす。UIにおけるモードとは、ある操作の持つ意味が状況に依存して変化し、それによってユーザーに対して、現在可能な操作を限定したり、操作の順序を固定的に強制する状態のこと。またモードがあることによって、ユーザーは作業の途中で考えを変えて別のことをしたくなった際に、まずモードから抜け出るための操作を行わなければならなくなる。逆にUIがモードレスあれば、ある操作の持つ意味が一定で、それによってユーザーは自由な順序で作業を行うことができる。そしていつでも考えを変えて別な作業をはじめられる。モードレス性は、使いやすいUIの基本条件。&lt;/p&gt;
+
+&lt;p&gt;ex. ダブルクリックでファイルを開くことができる&lt;/p&gt;
+
+&lt;h3 id=&quot;10-視覚ゲシュタルト&quot;&gt;10. 視覚ゲシュタルト&lt;/h3&gt;
+
+&lt;p&gt;人の知覚は対象要素を個別に認識するのではなく全体的な枠組みから規定される（ゲシュタルト心理学）。この特性を利用し、近接、類似、閉鎖といったパターン（プレグナンツの法則）を用いてレイアウトし、要素同士のグループ関係を効果的に示す。&lt;/p&gt;
+
+&lt;h2 id=&quot;参考文献&quot;&gt;参考文献&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[ソシオメディア&lt;/td&gt;
+      &lt;td&gt;ヒューマンインターフェース ガイドライン](https://www.sociomedia.co.jp/category/shig)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="design" /><summary type="html">ソシオメディアのヒューマンインターフェースガイドラインを読む</summary></entry><entry><title type="html">2021年の5個の抱負</title><link href="/resolution/2021/01/01/resolusion-2021.html" rel="alternate" type="text/html" title="2021年の5個の抱負" /><published>2021-01-01T13:41:03+00:00</published><updated>2021-01-01T13:41:03+00:00</updated><id>/resolution/2021/01/01/resolusion-2021</id><content type="html" xml:base="/resolution/2021/01/01/resolusion-2021.html">&lt;h1 id=&quot;あらゆる文化に触れる&quot;&gt;&lt;strong&gt;あらゆる文化に触れる&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;絵画、写真、音楽、本、映画、マンガ、食などのあらゆるジャンルの文化に積極的に触れるようにする。
+日本だけでなく外国の文化にも触れる。&lt;/p&gt;
+
+&lt;h1 id=&quot;人のオススメを試す&quot;&gt;&lt;strong&gt;人のオススメを試す&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;人からオススメられたものは積極的に試すようにする。本、映画、マンガ、お店、考え方etc.&lt;/p&gt;
+
+&lt;h1 id=&quot;アウトプット量を増やす&quot;&gt;&lt;strong&gt;アウトプット量を増やす&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;得た知識や経験を文章、音声で体型的にまとめるようにする。&lt;/p&gt;
+
+&lt;h1 id=&quot;人との関わりを増やす&quot;&gt;&lt;strong&gt;人との関わりを増やす&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;仕事、プライベート関わらず、周りの人との関わりを増やす。&lt;/p&gt;
+
+&lt;h1 id=&quot;一次情報で判断する&quot;&gt;&lt;strong&gt;一次情報で判断する&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;二次情報を鵜呑みにせず、一次情報で判断する。&lt;/p&gt;</content><author><name></name></author><category term="resolution" /><summary type="html">あらゆる文化に触れる</summary></entry><entry><title type="html">2020年よかった映画10選</title><link href="/movie/2020/12/30/2020-remomend-movies.html" rel="alternate" type="text/html" title="2020年よかった映画10選" /><published>2020-12-30T13:41:03+00:00</published><updated>2020-12-30T13:41:03+00:00</updated><id>/movie/2020/12/30/2020-remomend-movies</id><content type="html" xml:base="/movie/2020/12/30/2020-remomend-movies.html">&lt;p&gt;コロナもあって自宅で過ごす期間が増え、2020年は約200本映画を見れた。
+その中でよかった映画を10個(新作5本 ,旧作5本)にまとめる。&lt;/p&gt;
+
+&lt;h1 id=&quot;新作&quot;&gt;新作&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tenet&quot;&gt;TENET&lt;/h2&gt;
+
+&lt;p&gt;時を操らせたら最強なクリストファーノーラン監督、さすが。&lt;/p&gt;
+
+&lt;p&gt;ハリーポッターのセドリック好きとしては、ロバートパティンソン演じるニールが好きだった。&lt;/p&gt;
+
+&lt;p&gt;実はいろんな映画の掛け合わせだったりする。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AZGcmvrTX9M&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ブックスマート&quot;&gt;ブックスマート&lt;/h2&gt;
+
+&lt;p&gt;2020年の青春映画って感じ。&lt;/p&gt;
+
+&lt;p&gt;過去の青春映画の金字塔を「ブレックファスト・クラブ」とするなら、現代の青春映画の金字塔は「ブックスマート」って感じ。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xMsFAzRqB3U&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ハーフオブイット&quot;&gt;ハーフ・オブ・イット&lt;/h2&gt;
+
+&lt;p&gt;過去見たNetflix映画でNo.1。&lt;/p&gt;
+
+&lt;p&gt;冒頭はプラトンの引用から始まって、ラストシーンでその主張を再構築している。&lt;/p&gt;
+
+&lt;p&gt;過去の名作小説や映画の引用がかなり出てくる。詳しくないのもあったので全部見てからもう一回みたい。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ALAewF-Qfso&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;劇場版鬼滅の刃無限列車編&quot;&gt;劇場版「鬼滅の刃」無限列車編&lt;/h2&gt;
+
+&lt;p&gt;原作知ってたけれど、コメディありアクションありシリアスありの素晴らしい映画だった。&lt;/p&gt;
+
+&lt;p&gt;社会人としてラストシーンが心掴まれた。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-ewm56D9DzY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;パラサイト&quot;&gt;パラサイト&lt;/h2&gt;
+
+&lt;p&gt;2020年アカデミー作品賞に相応しい作品&lt;/p&gt;
+
+&lt;p&gt;ただ、実際に半地下の人たちの感想を聞きたい。(おそらく世間とは違うはず)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VG9PjxVMd08&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;旧作&quot;&gt;旧作&lt;/h1&gt;
+
+&lt;h2 id=&quot;きっとうまくいく&quot;&gt;きっとうまくいく&lt;/h2&gt;
+
+&lt;p&gt;インド映画歴代興行収入1位に相応しいコメディ映画。3時間が一瞬で過ぎる。&lt;/p&gt;
+
+&lt;p&gt;All is Well !&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MAMv_s526vU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;はじまりのうた&quot;&gt;はじまりのうた&lt;/h2&gt;
+
+&lt;p&gt;音楽が全部いい。&lt;/p&gt;
+
+&lt;p&gt;これを見てからmaroon5の「Lost Stars」を聞くと感慨深くなる。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yOr4LeEWOLo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;インターステラー&quot;&gt;インターステラー&lt;/h2&gt;
+
+&lt;p&gt;ノーベル物理学賞のキップ・ソーン博士が製作総指揮なだけあって、科学考証はかなり綿密。
+SF映画と思いきや人類愛の映画。
+「愛は観測可能な力である」とかいうエモ映画。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/isoTSzwBMKE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;湯を沸かすほどの熱い愛&quot;&gt;湯を沸かすほどの熱い愛&lt;/h2&gt;
+
+&lt;p&gt;家族愛をひたすらに感じられる。&lt;/p&gt;
+
+&lt;p&gt;もう一回見ても多分泣くので一人で見たい。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CQsS-ekufiM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;search&quot;&gt;Search&lt;/h2&gt;
+
+&lt;p&gt;PCだけで完結する映画という仕組みも面白いし、ストーリーも練られていて最後まで飽きない。&lt;/p&gt;
+
+&lt;p&gt;この映画だけはPCで見たい。&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/75D75RG6csA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="movie" /><summary type="html">コロナもあって自宅で過ごす期間が増え、2020年は約200本映画を見れた。 その中でよかった映画を10個(新作5本 ,旧作5本)にまとめる。</summary></entry><entry><title type="html">2020年読んでよかった本9選</title><link href="/books/2020/12/30/2020-recommend-books.html" rel="alternate" type="text/html" title="2020年読んでよかった本9選" /><published>2020-12-30T13:41:03+00:00</published><updated>2020-12-30T13:41:03+00:00</updated><id>/books/2020/12/30/2020-recommend-books</id><content type="html" xml:base="/books/2020/12/30/2020-recommend-books.html">&lt;p&gt;2020年はコロナショックで自粛期間も多く、たくさんの本(191冊)と出会えた1年だった。&lt;/p&gt;
+
+&lt;p&gt;その中で読んでよかった本を9冊にまとめてみる。&lt;/p&gt;
+
+&lt;h2 id=&quot;1死とは何か-イェール大学で23年連続の人気講義&quot;&gt;1.「死」とは何か イェール大学で23年連続の人気講義&lt;/h2&gt;
+
+&lt;p&gt;宗教的背景は排除し、誰もが迎えるであろう「死」について体系的に論じている本&lt;/p&gt;
+
+&lt;p&gt;魂は存在せず、不死は良いものではないと主張していて、死を恐れることは死に対する適切な反応ではないこと、自殺は特定の状況下では合理的にも道徳的にも正当化するかもしれないことなどが理解できる。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%80%8C%E6%AD%BB%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%82%A4%E3%82%A7%E3%83%BC%E3%83%AB%E5%A4%A7%E5%AD%A6%E3%81%A723%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%AE%E4%BA%BA%E6%B0%97%E8%AC%9B%E7%BE%A9-%E5%AE%8C%E5%85%A8%E7%BF%BB%E8%A8%B3%E7%89%88-%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%BC%E3%82%AC%E3%83%B3/dp/4866511281&quot;&gt;「死」とは何か イェール大学で23年連続の人気講義 完全翻訳版&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2自分だけの答えが見つかる-13歳からのアート思考&quot;&gt;2.「自分だけの答え」が見つかる 13歳からのアート思考&lt;/h2&gt;
+
+&lt;p&gt;モノの見方が変わり、1枚の絵画を見る目が変わった本&lt;/p&gt;
+
+&lt;p&gt;特にピカソが「1つの視点から人間の視覚だけを使って見た世界」である遠近法に疑問を持ち、「さまざまな視点から認識したものを一つの画面に再構成する」手法をとったことを知ってハッとした。&lt;/p&gt;
+
+&lt;p&gt;中学時代、美術の筆記テストで97点を取っても5段階で4しか取れなかった自分に教えてあげたい&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%80%8C%E8%87%AA%E5%88%86%E3%81%A0%E3%81%91%E3%81%AE%E7%AD%94%E3%81%88%E3%80%8D%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B-13%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E6%80%9D%E8%80%83-%E6%9C%AB%E6%B0%B8-%E5%B9%B8%E6%AD%A9/dp/4478109184&quot;&gt;「自分だけの答え」が見つかる 13歳からのアート思考&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-愛するということ&quot;&gt;3. 愛するということ&lt;/h2&gt;
+
+&lt;p&gt;哲学者エーリッヒ・フロムの本。愛について語っている本でこの本以上をまだ知らない。&lt;/p&gt;
+
+&lt;p&gt;「愛は技術であり、学ぶことができる」, 「愛は人間のなかにある能動的な力である」とか名言はたくさんあってキリがないが、根本にあるのは「愛される」のではなく「愛する」ための本であるところ。&lt;/p&gt;
+
+&lt;p&gt;旧訳で読んだけれど、今年新訳が出たらしい&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E6%84%9B%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8-%E6%96%B0%E8%A8%B3%E7%89%88-%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%83%95%E3%83%AD%E3%83%A0/dp/4314005580&quot;&gt;愛するということ 新訳版&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4-寝ながら学べる構造主義&quot;&gt;4. 寝ながら学べる構造主義&lt;/h2&gt;
+
+&lt;p&gt;ソシュール、フーコー、バルト、ラカン、レヴィ＝ストロースといった思想家がどのように考えていたのかがなんとなくわかる本。&lt;/p&gt;
+
+&lt;p&gt;自分たちが自由に考えたり行動していると思っていることは実際はそうじゃない。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;私たちはつねにある時代、ある地域、ある社会集団に属しており、その条件が私たちのものの見方、感じ方、考え方を基本的なところで決定している。
+だから、私たちは自分が思っているほど、自由に、あるいは主体的にものをみているわけではない。むしろ私たちは、ほとんどの場合、自分の属する社会集団が受け容れたものだけを選択的に「見せられ」「感じさせられ」「考えさせられている」。そして自分の属する社会集団が無意識的に排除してしまったものは、そもそも私たちの視界に入ることがなく、それゆえ、私たちの感受性に触れることも、私たちの思索の主題となることもない。　私たちは自分では判断や行動の「自律的な主体」であると信じているけれども、実は、その自由や自律性はかなり限定的なものである、という事実を徹底的に掘り下げたことが構造主義という方法の功績なのです&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E5%AF%9D%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B9%E3%82%8B%E6%A7%8B%E9%80%A0%E4%B8%BB%E7%BE%A9-%E6%96%87%E6%98%A5%E6%96%B0%E6%9B%B8-%E5%86%85%E7%94%B0-%E6%A8%B9/dp/4166602519&quot;&gt;寝ながら学べる構造主義 ((文春新書))&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-2020年6月30日にまたここで会おう&quot;&gt;5. 2020年6月30日にまたここで会おう&lt;/h2&gt;
+
+&lt;p&gt;2019年に亡くなられた滝本哲史さんが、2012年に東大で行われた講義をまとめた本&lt;/p&gt;
+
+&lt;p&gt;新しくて正しい理論は、いかにそれが正しくても、古くて間違った理論を一瞬で駆逐するようなことはなくて、50年とか100年とか、すごい長い時間をかけて、結果論としてしかパラダイムはシフトしない。&lt;/p&gt;
+
+&lt;p&gt;ただ、若者が正しい選択をし続けることで正しいパラダイムシフトを起こせる。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;社会変革というのは、ひとりの大きなカリスマをぶちあげるよりも、小さいリーダーをあちこちにたくさん作って、その中で勝ち残った人が社会でも重要な役割を果たしていくというモデルのほうが、僕は、はるかに健全だと思っています。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/2020%E5%B9%B46%E6%9C%8830%E6%97%A5%E3%81%AB%E3%81%BE%E3%81%9F%E3%81%93%E3%81%93%E3%81%A7%E4%BC%9A%E3%81%8A%E3%81%86-%E7%80%A7%E6%9C%AC%E5%93%B2%E5%8F%B2%E4%BC%9D%E8%AA%AC%E3%81%AE%E6%9D%B1%E5%A4%A7%E8%AC%9B%E7%BE%A9-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E7%80%A7%E6%9C%AC-%E5%93%B2%E5%8F%B2/dp/4065194288&quot;&gt;2020年6月30日にまたここで会おう 瀧本哲史伝説の東大講義 (星海社新書)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6-良い戦略悪い戦略&quot;&gt;6. 良い戦略・悪い戦略&lt;/h2&gt;
+
+&lt;p&gt;タイトル通り、良い戦略と悪い戦略について事例を交えながら解説している&lt;/p&gt;
+
+&lt;p&gt;こういうビジネス本は実践が命なので時間が経てばもう一回読み直したい&lt;/p&gt;
+
+&lt;p&gt;それにしてもハンニバルはどこでも賞賛されている&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E8%89%AF%E3%81%84%E6%88%A6%E7%95%A5%E3%80%81%E6%82%AA%E3%81%84%E6%88%A6%E7%95%A5-%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BBP%E3%83%BB%E3%83%AB%E3%83%A1%E3%83%AB%E3%83%88/dp/4532318092&quot;&gt;良い戦略、悪い戦略&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7-ぼくはイエローでホワイトでちょっとブルー&quot;&gt;7. ぼくはイエローでホワイトで、ちょっとブルー&lt;/h2&gt;
+
+&lt;p&gt;イギリスで公立中学に通う一人息子の葛藤と成長を母親目線で描いたエッセイ&lt;/p&gt;
+
+&lt;p&gt;外国ではびこる移民、人種、格差の問題を追体験できる&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「自分たちが正しいと集団で思い込むと、人間はクレイジーになるからね」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%81%BC%E3%81%8F%E3%81%AF%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%81%A7%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%81%A7%E3%80%81%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%83%96%E3%83%AB%E3%83%BC-%E3%83%96%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3-%E3%81%BF%E3%81%8B%E3%81%93/dp/4103526815&quot;&gt;ぼくはイエローでホワイトで、ちょっとブルー&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8-世界は贈与でできている資本主義のすきまを埋める倫理学&quot;&gt;8. 世界は贈与でできている――資本主義の「すきま」を埋める倫理学&lt;/h2&gt;
+
+&lt;p&gt;贈与論についての本。資本主義が支配する現代社会において、人との繋がりなどは捉えづらい。
+「贈与」と「交換」の違いも含めて 「贈与」を通しての親の愛情やコミュニケーションのあり方を考察している&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AF%E8%B4%88%E4%B8%8E%E3%81%A7%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E2%80%95%E2%80%95%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E3%80%8C%E3%81%99%E3%81%8D%E3%81%BE%E3%80%8D%E3%82%92%E5%9F%8B%E3%82%81%E3%82%8B%E5%80%AB%E7%90%86%E5%AD%A6-NewsPicks%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0-%E8%BF%91%E5%86%85%E6%82%A0%E5%A4%AA/dp/4910063056&quot;&gt;世界は贈与でできている――資本主義の「すきま」を埋める倫理学 (NewsPicksパブリッシング)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9-サードドア-精神的資産のふやし方&quot;&gt;9. サードドア: 精神的資産のふやし方&lt;/h2&gt;
+
+&lt;p&gt;大学生が世界的な成功を収めた著名人に体当たりでインタビューを重ね、「成功するきっかけ」を探す物語&lt;/p&gt;
+
+&lt;p&gt;実体験なだけあって上手くいかないことがほとんど。それが映画のよう。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;人生、ビジネス、成功。どれもナイトクラブみたいなものだ。常に３つのドアがある。ファーストドア。99％の人が並ぶ正面入り口。セカンドドア。選ばれた人だけが利用できる入り口。普通に生きていたら、この2つのドアしかないような気分になる。
+でも、裏道を駆け抜け、何百回もノックして窓を乗り越え、キッチンをこっそり通り抜けたその先に「&lt;strong&gt;サードドア&lt;/strong&gt;」は必ずある。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%82%B5%E3%83%BC%E3%83%89%E3%83%89%E3%82%A2-%E7%B2%BE%E7%A5%9E%E7%9A%84%E8%B3%87%E7%94%A3%E3%81%AE%E3%81%B5%E3%82%84%E3%81%97%E6%96%B9-%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%90%E3%83%8A%E3%83%A4%E3%83%B3/dp/4492046534&quot;&gt;サードドア: 精神的資産のふやし方&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;その他読んでよかった本&quot;&gt;その他読んでよかった本&lt;/h2&gt;
+
+&lt;p&gt;タイトルだけ羅列&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/SHOE-DOG-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%89%E3%83%83%E3%82%B0-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%88/dp/4492046178&quot;&gt;SHOE DOG(シュードッグ)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/16%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%AE%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96-%E4%B8%96%E3%81%AE%E4%B8%AD%E3%81%AE%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A-%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%996-5%E5%80%8B%E3%81%AE%E7%89%A9%E8%AA%9E-%E9%8E%8C%E7%94%B0-%E9%9B%84%E4%B8%80%E9%83%8E/dp/4478110719&quot;&gt;16歳からのはじめてのゲーム理論 “世の中の意思決定”を解き明かす6.5個の物語&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/Au-%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3-%E5%A4%A9%E6%89%8DIT%E7%9B%B87%E3%81%A4%E3%81%AE%E9%A1%94-%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9-%E3%83%81%E3%83%A5%E3%82%A6/dp/416391286X&quot;&gt;Au オードリー・タン 天才IT相7つの顔&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%81%AA%E3%81%9C%E3%82%B4%E3%83%83%E3%83%9B%E3%81%AF%E8%B2%A7%E4%B9%8F%E3%81%A7%E3%80%81%E3%83%94%E3%82%AB%E3%82%BD%E3%81%AF%E9%87%91%E6%8C%81%E3%81%A1%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-%E5%B1%B1%E5%8F%A3-%E6%8F%9A%E5%B9%B3/dp/447801759X&quot;&gt;なぜゴッホは貧乏で、ピカソは金持ちだったのか?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%80%8C%E3%81%A4%E3%81%84%E3%82%84%E3%81%A3%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%80%8D%E4%BD%93%E9%A8%93%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%8B%E3%81%9F-%E4%BA%BA%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%80%8C%E7%9B%B4%E6%84%9F%E3%83%BB%E9%A9%9A%E3%81%8D%E3%83%BB%E7%89%A9%E8%AA%9E%E3%80%8D%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF-%E7%8E%89%E6%A8%B9-%E7%9C%9F%E4%B8%80%E9%83%8E/dp/4478106169&quot;&gt;「ついやってしまう」体験のつくりかた 人を動かす「直感・驚き・物語」のしくみ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/SHOE-DOG-%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%89%E3%83%83%E3%82%B0-%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%88/dp/4492046178&quot;&gt;SHOE DOG(シュードッグ)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E8%8B%A6%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%97%E3%82%88%E3%81%86%E3%81%8B-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%9E%E3%83%B3%E3%81%AE%E7%88%B6%E3%81%8C%E6%88%91%E3%81%8C%E5%AD%90%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E6%9B%B8%E3%81%8D%E3%81%9F%E3%82%81%E3%81%9F%E3%80%8C%E5%83%8D%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%80%8D-%E6%A3%AE%E5%B2%A1-%E6%AF%85/dp/4478107823&quot;&gt;苦しかったときの話をしようか ビジネスマンの父が我が子のために書きためた「働くことの本質」&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%88%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B-%E6%95%99%E9%A4%8A%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3-%E6%B8%A1%E8%BE%BA-%E9%A0%86%E5%AD%90-ebook/dp/B07GWHCP5N&quot;&gt;世界のビジネスエリートが身につける 教養としてのワイン&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="books" /><summary type="html">2020年はコロナショックで自粛期間も多く、たくさんの本(191冊)と出会えた1年だった。</summary></entry><entry><title type="html">2020年面白かった動画18選</title><link href="/summery/2020/12/30/2020-recommend-funny-movies.html" rel="alternate" type="text/html" title="2020年面白かった動画18選" /><published>2020-12-30T13:41:03+00:00</published><updated>2020-12-30T13:41:03+00:00</updated><id>/summery/2020/12/30/2020-recommend-funny-movies</id><content type="html" xml:base="/summery/2020/12/30/2020-recommend-funny-movies.html">&lt;p&gt;芸人好きとしてまとめずにはいられない、2020年面白かった動画をまとめる。
+ほとんど漫才かコントになってしまった。&lt;/p&gt;
+
+&lt;h2 id=&quot;おいでやすこがm-1決勝ネタ&quot;&gt;おいでやすこが【M-1決勝ネタ】&lt;/h2&gt;
+
+&lt;p&gt;準決勝でも一番ウケてたし、決勝でも点数トップ。誰がなんと言おうと今年一番面白かったネタ&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jyu3q4tkTU0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;相席食堂&quot;&gt;相席食堂&lt;/h2&gt;
+
+&lt;p&gt;相席食堂は大体面白いけど、長州力と島田珠代の回は神回すぎる&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sZE9xaKXs9M&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F1gRNGglWLA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;錦鯉m-1決勝ネタ&quot;&gt;錦鯉【M-1決勝ネタ】&lt;/h2&gt;
+
+&lt;p&gt;何も考えず笑えるコンビ&lt;/p&gt;
+
+&lt;p&gt;M-1でファイナル進出してたらやってたと思う、合コンのネタも面白い(youtubeにはなかった)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/D0QkrEmt42g&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;芸人にスマホのメモを見せてもらったら面白すぎたしヤバすぎたニューヨーク-official-channel&quot;&gt;芸人にスマホのメモを見せてもらったら面白すぎたしヤバすぎた[ニューヨーク Official Channel]&lt;/h2&gt;
+
+&lt;p&gt;そいつどいつが面白い&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bPigs9Gb55A&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;藤崎マーケットm-1準々決勝ネタ&quot;&gt;藤崎マーケット【M-1準々決勝ネタ】&lt;/h2&gt;
+
+&lt;p&gt;藤崎マーケットはやっぱり漫才が一番面白い&lt;/p&gt;
+
+&lt;p&gt;M-1ラストイヤーの気迫が見える&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6f8Y3njgdRM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;真空ジェシカm-1準々決勝ネタ&quot;&gt;真空ジェシカ【M-1準々決勝ネタ】&lt;/h2&gt;
+
+&lt;p&gt;準決勝に出れなかったコンビの中で一番面白かった
+来年決勝に出そう&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/i5z4IVkPyFM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;ばばあの罠---シソンヌライブ&quot;&gt;「ばばあの罠」 - シソンヌライブ&lt;/h2&gt;
+
+&lt;p&gt;個人的シソンヌNo.1コント&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zJ_aBsfjzWw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;音ネタ応援団怪奇yesどんぐりrpg歌ネタ&quot;&gt;音ネタ『応援団』【怪奇！YesどんぐりRPG】歌ネタ&lt;/h2&gt;
+
+&lt;p&gt;公式チャンネルなのにサムネがターンテーブルの写真なのはよくわからん&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H1-i9Mmtvfs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;コントさらば青春の光-楽屋挨拶&quot;&gt;【コント】さらば青春の光 『楽屋挨拶』&lt;/h2&gt;
+
+&lt;p&gt;キングオブコント4年連続出場なだけあって演技力が絶妙&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bk-gAxgTc0Y&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;コントおとなロングコートダディ&quot;&gt;【コント】おとな／ロングコートダディ&lt;/h2&gt;
+
+&lt;p&gt;爆笑するわけじゃないけど、何回も見てしまう、ロングコートダディの世界観&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zSZrFoJhjVI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;不定期配信生配信で珍事件ダイアンが4人に&quot;&gt;【不定期配信】生配信で珍事件！ダイアンが4人に！？&lt;/h2&gt;
+
+&lt;p&gt;機械に翻弄されるダイアンが面白すぎる&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tBnQzrQ0ahg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;マジ歌-フット後藤ヘブン-オブ-アメリカン&quot;&gt;マジ歌 〜フット後藤〜『ヘブン オブ アメリカン』&lt;/h2&gt;
+
+&lt;p&gt;何年かぶりに見返したけどやっぱりおもろい&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sXiyY0lna9k&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;アンタッチャブル全力脱力タイムズ&quot;&gt;アンタッチャブル[全力脱力タイムズ]&lt;/h2&gt;
+
+&lt;p&gt;アンタッチャブルが復活した時の漫才&lt;/p&gt;
+
+&lt;p&gt;10年ぶりかつアドリブでここまでやるのは凄すぎる&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/av77494433?zw&quot;&gt;動画&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ラバーガール--子供服&quot;&gt;ラバーガール / 子供服&lt;/h2&gt;
+
+&lt;p&gt;本当に言いそうでサイコパスなボケとそれを流すツッコミが好き&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2TBFEO8_68Q&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;ドッキリ相方のバイクを勝手に金ピカに塗ってみたさらば青春の光&quot;&gt;【ドッキリ】相方のバイクを勝手に金ピカに塗ってみた【さらば青春の光】&lt;/h2&gt;
+
+&lt;p&gt;さらばの企画はぶっとんでてyoutubeっぽい、さすが個人事務所&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/At9NMXTvrdU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;遠隔中川家-01&quot;&gt;遠隔中川家 01&lt;/h2&gt;
+
+&lt;p&gt;ただの兄弟電話だけど、急にコントし出す感じがめちゃくちゃ面白い&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bYi7qCXvsII&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h2 id=&quot;蛙亭--マッチングアプリ&quot;&gt;蛙亭 / マッチングアプリ&lt;/h2&gt;
+
+&lt;p&gt;このネタを女性の岩倉さんが書いているのがすごい&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1vR_bov1Rz0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;ジャルジャル--凡人のオリジナルソング先わかる奴&quot;&gt;ジャルジャル / 凡人のオリジナルソング、先わかる奴&lt;/h2&gt;
+
+&lt;p&gt;キングオブコントコント2020のネタも好きだけど、これが一番好き&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iaF_NzEAQqE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="summery" /><summary type="html">芸人好きとしてまとめずにはいられない、2020年面白かった動画をまとめる。 ほとんど漫才かコントになってしまった。</summary></entry></feed>
