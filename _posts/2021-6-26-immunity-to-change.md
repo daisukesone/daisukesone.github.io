@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "[読書メモ]"
+title: "[読書メモ]なぜ人と組織は変われないのか"
 date:  2021-06-27 22:41:03 +0900
 categories: books
 ---
 
 # なぜ人と組織は変われないのか
-![行動変えるデザイン](https://user-images.githubusercontent.com/32898418/118395163-d080b900-b683-11eb-876a-ea4c861222d6.png)
+![なぜ人と組織は変われないのか](https://user-images.githubusercontent.com/32898418/123528942-d2c83f80-d726-11eb-80ac-f6baa5d7b5da.png)
+
