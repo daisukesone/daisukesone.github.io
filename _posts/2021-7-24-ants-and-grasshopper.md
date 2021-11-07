@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[読書メモ]アリさんとキリギリス"
+title: "【読書メモ】アリさんとキリギリス"
 date:  2021-07-25 22:41:03 +0900
 categories: books
 ---

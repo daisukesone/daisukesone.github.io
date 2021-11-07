@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[読書メモ]行動を変えるデザイン"
+title: "【読書メモ】行動を変えるデザイン"
 date:  2021-04-29 22:41:03 +0900
 categories: books
 ---
