@@ -40,3 +40,11 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
+
+gem "nokogiri", "~> 1.12"
+
+gem "open-uri", "~> 0.2.0"
+
+gem "ruby-readability", "~> 0.7.0"
+
+gem "digest", "~> 3.0"
